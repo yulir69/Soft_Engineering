@@ -59,8 +59,7 @@ my_car.drive()
 ```
 
 ### Результат
-https://github.com/yulir69/Soft_Engineering/blob/tema8/pic/лаб8_2.png
-
+![Скриншот выполнения](pic/lab8_2.png)
 
 # Лабораторные работа 3
 ## Создание класса ElectricCar с наследованием от класса Car
@@ -107,8 +106,7 @@ my_electric_car.charge()
 ```
 
 ### Результат
-https://github.com/yulir69/Soft_Engineering/blob/tema8/pic/лаб8_3.png
-
+![Скриншот выполнения](pic/lab8_3.png)
 
 # Лабораторные работа 4
 ## Реализация инкапсуляции с защищенными и приватными атрибутами
@@ -146,8 +144,7 @@ my_car.drive()
 ```
 
 ### Результат
-https://github.com/yulir69/Soft_Engineering/blob/tema8/pic/лаб8_4.png
-
+![Скриншот выполнения](pic/lab8_4.png)
 
 # Лабораторные работа 5
 ## Реализация полиморфизма с классами Shape, Rectangle и Circle
@@ -199,8 +196,7 @@ for shape in shapes:
     print(shape.area())
 ```
 ### Результат
-https://github.com/yulir69/Soft_Engineering/blob/tema8/pic/лаб8_5.png
-
+![Скриншот выполнения](pic/lab8_5.png)
 
 # Самостоятельная работа 1
 ## Создание собственного класса и объекта
@@ -355,6 +351,5 @@ animal_concert(animals)
 
 ```
 ###Результат
-https://github.com/yulir69/Soft_Engineering/blob/tema8/pic/сам8_1.2.3.4.5.png
-
+![Скриншот выполнения](pic/сам8_1.2.3.4.5.png)
 
