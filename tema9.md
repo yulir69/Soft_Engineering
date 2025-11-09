@@ -13,7 +13,7 @@
 
 # Лабораторные работа 1
 
-```
+```python
 class Ivan:
     __slots__ = ['name']
     def __init__(self, name):
