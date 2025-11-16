@@ -183,6 +183,7 @@ if __name__ == '__main__':
     fibonacci()
 ```
 ###Результат
+![Скриншот выполнения](pic/sam10_1.png)
 # Самостоятельная работа 2
 ```python
 def check_file(filename):
